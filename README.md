@@ -6,21 +6,40 @@
 
 - 👀 I’m interested in ...
   - Web Application
-  - Microcontroller
-  - OS Linux
-
 
 - 🌱 I’m currently learning ...
-  - DBMS
+  - Freamwork
+    - React
+    - Bootstrap
+  
+  - Database
     - MySQL
-    - PHP
-  - Python
-    - Flask Freamwork (Web Application)
+    - phpMyAdmin
+   
   - JAVA
-    - OOP
-    - Structure & Algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+    - Network Programming
+
+  - Python
+    - Machine Learning and Deep Learning
+    - Flask Freamwork
+
+  - Azure
+    - VM
+    - Network Services
+    - Storage
+    - Serverless
+    - Auto Scale and Load balancer
+    - Container and Microservice
+
+  - Other
+    - Git & GitHub
+    - MATLAB
+      - Artificial Intelligence
+      - Digital Image Processing 
+
+- 💞️ I’m looking to collaborate on International Company.
+- 📫 How to reach me
+  - jayr.jakkrit@gmail.com 
 
 <!---
 jayrboy/jayrboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
