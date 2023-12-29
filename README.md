@@ -5,12 +5,12 @@
 
 
 - 👀 I’m interested in ...
-  - Web Application
+  - React (Web Developer)
 
 - 🌱 I’m currently learning ...
   - Freamwork
-    - React
     - Bootstrap
+    - Flask
   
   - Database
     - MySQL
@@ -21,7 +21,6 @@
 
   - Python
     - Machine Learning and Deep Learning
-    - Flask Freamwork
 
   - Azure
     - VM
