@@ -5,7 +5,9 @@
 
 
 - 👀 I’m interested in ...
-  - React + Vite (Web Developer)
+  - JavaScript
+  - Node.js
+  - React + Vite
 
 - 🌱 I’m currently learning ...
   - Freamwork
