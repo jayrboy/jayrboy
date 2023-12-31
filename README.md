@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayrboy
   - Now I'm living in Bangkok.
   - I'm studying of King Mongkut's University of Technology North Bangkok, College of Industrial Technology major in Electronics Computer Technology.
-  - I’m optimistic, hardworking, creative, interested innovation and technology, teamwork and well-organized.
+  - I’m optimistic, hardworking, creative, innovation, teamwork and well-organized.
 
 
 - 👀 I’m interested in ...
