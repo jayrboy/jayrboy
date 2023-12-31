@@ -4,7 +4,7 @@
   - I’m optimistic, hardworking, creative, innovation, teamwork and well-organized.
 
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in WEB APPLICATION
   - JavaScript
   - Node.js
   - React + Vite
