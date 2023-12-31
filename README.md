@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in ...
-  - React (Web Developer)
+  - React + Vite (Web Developer)
 
 - 🌱 I’m currently learning ...
   - Freamwork
@@ -13,6 +13,7 @@
     - Flask
   
   - Database
+    - MongoDB 
     - MySQL
     - phpMyAdmin
    
