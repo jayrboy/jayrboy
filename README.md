@@ -5,19 +5,19 @@
 
 
 - 👀 I’m interested in WEB APPLICATION
-  - JavaScript
+  - JavaScript (React)
   - Node.js
-  - React + Vite
 
 - 🌱 I’m currently learning ...
-  - Freamwork
+  - Freamwork / Tool
     - Bootstrap
     - Flask
+    - Vite
   
   - Database
-    - MongoDB 
     - MySQL
     - phpMyAdmin
+    - MongoDB
    
   - JAVA
     - Network Programming
