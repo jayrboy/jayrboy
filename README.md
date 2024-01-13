@@ -4,26 +4,26 @@
   - I’m optimistic, hardworking, creative, innovation, teamwork and well-organized.
 
 
-- 👀 I’m interested in WEB APPLICATION
-  - JavaScript (React)
-  - Node.js
+- 👀 I’m interested in WEB Developer
 
 - 🌱 I’m currently learning ...
-  - Freamwork / Tool
-    - Bootstrap
-    - Flask
-    - Vite
-  
   - Database
     - MySQL
     - phpMyAdmin
     - MongoDB
    
+  - Freamwork / Tools
+    - MERN Stack
+    - Vite 
+    - Bootstrap
+    - Tailwind
+    - Flask
+   
   - JAVA
+    - OOP 
     - Network Programming
 
   - Python
-    - Machine Learning and Deep Learning
 
   - Azure
     - VM
@@ -33,11 +33,13 @@
     - Auto Scale and Load balancer
     - Container and Microservice
 
-  - Other
-    - Git & GitHub
-    - MATLAB
-      - Artificial Intelligence
-      - Digital Image Processing 
+  - Linux (Ubuntu)
+
+  - Git & GitHub
+    
+  - MATLAB
+    - Fuzzy Logic
+    - Digital Image Processing 
 
 - 💞️ I’m looking to collaborate on International Company.
 - 📫 How to reach me
