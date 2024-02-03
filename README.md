@@ -1,14 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakkrit Onsomkrit
 =========================================================================================================================================
 
-Web Application Developer
--------------------------
-
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [Resume](http://jakkrit-dev.web.app)
 * ✉️  You can contact me at [jayr.jakkrit@gmail.com](mailto:jayr.jakkrit@gmail.com)
-* 🚀  I'm currently working on [KMUTNB campus](http://kmutnb.ac.th)
-* 🧠  I'm learning software engineering
 
 ### Skills
 
