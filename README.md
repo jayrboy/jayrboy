@@ -17,8 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
           width="36"
           height="36"
           alt="JavaScript" /></a
-      >
-      <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"
+      ><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"
         ><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
           width="36"
@@ -105,7 +104,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
           width="36"
           height="36"
           alt="Express" /></a
-      ><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
+      ><a
+        href="https://flask.palletsprojects.com/en/2.0.x/"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
+          width="36"
+          height="36"
+          alt="Flask" /></a
+      ><a href="https://www.docker.com/" target="_blank" rel="noreferrer"
+        ><img
+          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+          width="36"
+          height="36"
+          alt="Docker" /></a
+      ><br /><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"
         ><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
           width="36"
@@ -123,27 +137,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
           width="36"
           height="36"
           alt="Firebase" /></a
-      ><a
-        href="https://flask.palletsprojects.com/en/2.0.x/"
-        target="_blank"
-        rel="noreferrer"
+      ><br /><a href="https://www.linux.org" target="_blank" rel="noreferrer"
         ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg"
-          width="36"
-          height="36"
-          alt="Flask" /></a
-      ><a href="https://www.docker.com/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-          width="36"
-          height="36"
-          alt="Docker" /></a
-      ><a href="https://www.linux.org" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"
           width="36"
           height="36"
           alt="Linux"
+      /></a>
+      <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"
+        ><img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/285px-Logo-ubuntu_cof-orange-hex.svg.png?20130511162351"
+          width="36"
+          height="36"
+          alt="Ubuntu"
       /></a>
       <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"
         ><img
