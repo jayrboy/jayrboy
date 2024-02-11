@@ -74,18 +74,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
           width="36"
           height="36"
           alt="Bootstrap" /></a
-      ><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-          width="36"
-          height="36"
-          alt="TailwindCSS" /></a
-      ><a href="https://mui.com/" target="_blank" rel="noreferrer"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
-          width="36"
-          height="36"
-          alt="Material UI" /></a
       ><a href="https://www.figma.com/" target="_blank" rel="noreferrer"
         ><img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
@@ -131,12 +119,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
           width="36"
           height="36"
           alt="MySQL" /></a
-      ><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
+      ><a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer"
         ><img
-          src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*R4c8lHBHuH5qyqOtZb3h-w.png"
+          src="https://www.php.net//images/logos/new-php-logo.svg"
           width="36"
           height="36"
-          alt="Firebase" /></a
+          alt="phpMyAdmin" /></a
       ><br /><a href="https://www.linux.org" target="_blank" rel="noreferrer"
         ><img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png"
@@ -159,8 +147,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
           alt="Azure"
       /></a>
     </p>
-
-- Cloud Azue Portal 
 
 
 ### Socials
